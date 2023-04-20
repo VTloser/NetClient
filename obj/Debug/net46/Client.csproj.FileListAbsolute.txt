@@ -1,0 +1,13 @@
+C:\Users\摩诘创新\Desktop\Server\Client\Client\obj\Debug\net46\Client.csproj.AssemblyReference.cache
+C:\Users\摩诘创新\Desktop\Server\Client\Client\obj\Debug\net46\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\摩诘创新\Desktop\Server\Client\Client\obj\Debug\net46\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\摩诘创新\Desktop\Server\Client\Client\obj\Debug\net46\Client.AssemblyInfoInputs.cache
+C:\Users\摩诘创新\Desktop\Server\Client\Client\obj\Debug\net46\Client.AssemblyInfo.cs
+C:\Users\摩诘创新\Desktop\Server\Client\Client\obj\Debug\net46\Client.csproj.CoreCompileInputs.cache
+C:\Users\摩诘创新\Desktop\Server\Client\Client\bin\Debug\net46\Client.exe.config
+C:\Users\摩诘创新\Desktop\Server\Client\Client\bin\Debug\net46\Client.exe
+C:\Users\摩诘创新\Desktop\Server\Client\Client\bin\Debug\net46\Client.pdb
+C:\Users\摩诘创新\Desktop\Server\Client\Client\bin\Debug\net46\Newtonsoft.Json.dll
+C:\Users\摩诘创新\Desktop\Server\Client\Client\obj\Debug\net46\Client.csproj.CopyComplete
+C:\Users\摩诘创新\Desktop\Server\Client\Client\obj\Debug\net46\Client.exe
+C:\Users\摩诘创新\Desktop\Server\Client\Client\obj\Debug\net46\Client.pdb
